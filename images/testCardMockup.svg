@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 198.56 395.87">
+  <defs>
+    <linearGradient id="linear-gradient" x1="196.51" y1="90.26" x2="196.51" y2="138.42" gradientTransform="translate(393.02 228.19) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset=".02" stop-color="#272324"/>
+      <stop offset=".31" stop-color="#666669"/>
+      <stop offset=".45" stop-color="#808184"/>
+      <stop offset=".56" stop-color="#737376"/>
+      <stop offset=".76" stop-color="#525153"/>
+      <stop offset="1" stop-color="#231f20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="2.05" y1="52.43" x2="2.05" y2="68.63" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="2.05" y1="79.9" x2="2.05" y2="110.06" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="2.05" y1="117.14" x2="2.05" y2="147.95" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="2.32" y1="197.94" x2="196.51" y2="197.94" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="189.29" y1="197.94" x2="193.56" y2="197.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#3d3d3d" stop-opacity=".24"/>
+      <stop offset=".49" stop-color="#8f8f8f" stop-opacity=".56"/>
+      <stop offset=".73" stop-color="#cbcbcb" stop-opacity=".8"/>
+      <stop offset=".91" stop-color="#f0f0f0" stop-opacity=".94"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="5100.16" x2="5104.42" gradientTransform="translate(5109.69) rotate(-180) scale(1 -1)" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-8" x1="99.41" y1="15.89" x2="99.41" y2="12.82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset=".07" stop-color="#434343"/>
+      <stop offset=".31" stop-color="#252525"/>
+      <stop offset=".55" stop-color="#101010"/>
+      <stop offset=".78" stop-color="#040404"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="123.55" y1="17.67" x2="118" y2="12.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="123.01" y1="17.14" x2="118.48" y2="12.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#4d4d4d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="118.71" y1="12.84" x2="122.86" y2="16.99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0058ee"/>
+      <stop offset=".69" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="120.84" cy="17.33" fx="120.84" fy="17.33" r="2.59" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0058ee"/>
+      <stop offset=".86" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="123.08" cy="13.93" fx="123.08" fy="13.93" r="1.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0058ee"/>
+      <stop offset=".7" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="119.03" cy="15.62" fx="119.03" fy="15.62" r="2.58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".15" stop-color="#bdbdbd" stop-opacity=".74"/>
+      <stop offset=".29" stop-color="#838383" stop-opacity=".52"/>
+      <stop offset=".43" stop-color="#545454" stop-opacity=".33"/>
+      <stop offset=".57" stop-color="#2f2f2f" stop-opacity=".19"/>
+      <stop offset=".69" stop-color="#151515" stop-opacity=".08"/>
+      <stop offset=".8" stop-color="#050505" stop-opacity=".02"/>
+      <stop offset=".89" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clippath">
+      <rect x="-91.08" y="108.29" width="380.98" height="179.3" rx="20.34" ry="20.34" transform="translate(297.35 98.52) rotate(90)" style="fill: none; stroke-width: 0px;"/>
+    </clipPath>
+  </defs>
+  <g style="isolation: isolate;">
+    <g id="OBJECTS">
+      <g>
+        <path d="M196.43,90.01h2.13v48.16h-2.13c-1.09,0-1.97-.88-1.97-1.97v-44.22c0-1.09.88-1.97,1.97-1.97Z" transform="translate(393.02 228.19) rotate(180)" style="fill: url(#linear-gradient); stroke-width: 0px;"/>
+        <path d="M1.97,52.53h2.13v16.14H1.97c-1.09,0-1.97-.88-1.97-1.97v-12.19c0-1.09.88-1.97,1.97-1.97Z" style="fill: url(#linear-gradient-2); stroke-width: 0px;"/>
+        <path d="M1.97,79.71h2.13v30.41H1.97c-1.09,0-1.97-.88-1.97-1.97v-26.47c0-1.09.88-1.97,1.97-1.97Z" style="fill: url(#linear-gradient-3); stroke-width: 0px;"/>
+        <path d="M1.97,117.14h2.13v30.41H1.97c-1.09,0-1.97-.88-1.97-1.97v-26.47c0-1.09.88-1.97,1.97-1.97Z" style="fill: url(#linear-gradient-4); stroke-width: 0px;"/>
+        <rect x="2.32" width="194.19" height="395.87" rx="28.22" ry="28.22" style="fill: url(#linear-gradient-5); stroke-width: 0px;"/>
+        <path d="M-70.52,104.57h339.87c13.4,0,24.28,10.88,24.28,24.28v138.19c0,13.4-10.88,24.28-24.28,24.28H-70.52c-13.4,0-24.28-10.88-24.28-24.28v-138.19c0-13.4,10.88-24.28,24.28-24.28Z" transform="translate(297.35 98.52) rotate(90)" style="stroke-width: 0px;"/>
+        <path d="M190.04,371.08V24.79c0-7.28-3.4-13.77-8.69-17.97,6.83,3.98,11.44,11.37,11.44,19.83v342.56c0,8.46-4.61,15.86-11.44,19.83,5.29-4.2,8.69-10.69,8.69-17.97Z" style="fill: url(#linear-gradient-6); mix-blend-mode: screen; stroke-width: 0px;"/>
+        <path d="M8.79,371.08V24.79c0-7.28,3.4-13.77,8.69-17.97-6.83,3.98-11.44,11.37-11.44,19.83v342.56c0,8.46,4.61,15.86,11.44,19.83-5.29-4.2-8.69-10.69-8.69-17.97Z" style="fill: url(#linear-gradient-7); mix-blend-mode: screen; stroke-width: 0px;"/>
+        <path d="M47.93,7.96c1.2.8,3.23,2.6,3.58,5.71.5,4.47,2.23,9.93,9.56,9.93h76.71c7.32,0,9.06-5.46,9.56-9.93.35-3.11,2.37-4.91,3.58-5.71H47.93Z" style="stroke-width: 0px;"/>
+        <rect x="87.17" y="12.87" width="24.48" height="2.92" rx="1.14" ry="1.14" style="fill: url(#linear-gradient-8); stroke-width: 0px;"/>
+        <g>
+          <circle cx="120.62" cy="14.74" r="2.59" style="stroke-width: 0px;"/>
+          <circle cx="120.62" cy="14.74" r="3.72" style="fill: url(#linear-gradient-9); stroke-width: 0px;"/>
+          <circle cx="120.62" cy="14.74" r="3.05" style="fill: url(#linear-gradient-10); mix-blend-mode: multiply; stroke-width: 0px;"/>
+          <circle cx="120.62" cy="14.74" r="2.59" style="fill: url(#linear-gradient-11); stroke-width: 0px;"/>
+          <circle cx="120.62" cy="14.74" r="2.59" style="fill: url(#radial-gradient); stroke-width: 0px;"/>
+          <circle cx="120.62" cy="14.74" r="2.59" style="fill: url(#radial-gradient-2); stroke-width: 0px;"/>
+          <circle cx="120.62" cy="14.74" r="2.59" style="fill: url(#radial-gradient-3); mix-blend-mode: screen; opacity: .5; stroke-width: 0px;"/>
+        </g>
+        <g style="clip-path: url(#clippath);">
+          <image width="1875" height="3479" transform="translate(9.76 23.6) scale(.1)" xlink:href="../Desktop/Portfolio/pd website/Images/song copy.png"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
